@@ -1,0 +1,4 @@
+- git:
+    local-name: baxter
+    uri: https://github.com/gerac83/baxter_rf.git
+    version: master

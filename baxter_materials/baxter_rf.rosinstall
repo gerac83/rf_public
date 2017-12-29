@@ -2,3 +2,7 @@
     local-name: baxter
     uri: https://github.com/gerac83/baxter_rf.git
     version: master
+- git:
+    local-name: gazebo_ros_pkgs
+    uri: https://github.com/ros-simulation/gazebo_ros_pkgs.git
+    version: kinetic-devel
